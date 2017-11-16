@@ -1,6 +1,6 @@
 知识点：
 1、单个tomcat安装目录，多实例运行
-2、install service
+2、install service  Windows service HOW-TO
 3、manager app
 4、Realm Configuration 
 5、Security Manager 
@@ -11,3 +11,14 @@
 CGI How To
 
 Proxy Support HOW-TO
+Clustering/Session Replication HOW-TO
+Load Balancer HOW-TO
+Connectors How To
+Monitoring and Managing Tomcat
+Apache Portable Runtime (APR) based Native library for Tomcat
+Virtual Hosting and Tomcat
+Advanced IO and Tomcat
+Security Considerations
+Windows Authentication How-To
+The Tomcat JDBC Connection Pool
+WebSocket How-To
